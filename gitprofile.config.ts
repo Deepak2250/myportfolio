@@ -39,7 +39,7 @@ const CONFIG = {
             'ResQSync is a real-time crisis management platform that intelligently allocates resources, tracks live emergencies, and provides automated alerts to ensure quick and efficient disaster response. Our system bridges the gap between victims, volunteers, hospitals, and emergency responders.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/Deepak2250/Resqsync',
         },
         {
           title: 'Script Enhancer',
@@ -65,7 +65,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '' // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'java',
