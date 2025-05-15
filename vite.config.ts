@@ -18,7 +18,7 @@ export default defineConfig({
         },
       },
     }),
-    ...(CONFIG.enablePWA
+    ...(CONFIG.github.enablePWA
       ? [
           VitePWA({
             registerType: 'autoUpdate',
